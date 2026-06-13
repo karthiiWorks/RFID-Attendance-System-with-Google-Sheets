@@ -20,12 +20,12 @@ This project eliminates manual attendance processes, improves accuracy, and prov
 
 ## Key Features
 
-* ✅ RFID Card Authentication
-* ✅ Automated Attendance Recording
-* ✅ Google Sheets Integration
-* ✅ Real-Time Data Updates
-* ✅ Contactless Attendance System
-* ✅ Cloud-Based Record Management
+*  RFID Card Authentication
+*  Automated Attendance Recording
+*  Google Sheets Integration
+*  Real-Time Data Updates
+*  Contactless Attendance System
+*  Cloud-Based Record Management
 
 ---
 
@@ -72,22 +72,21 @@ The RFID reader scans authorized RFID cards and sends the data to the microcontr
 
 ## Future Enhancements
 
-* Facial Recognition Integration
-* Mobile Application Support
-* Attendance Analytics Dashboard
-* Email and SMS Notifications
-* Multi-User Access Management
-* Cloud Database Integration
+* Facial Recognition Integration.
+* Attendance Analytics Dashboard.
+* Email and SMS Notifications.
+* Multi-User Access Management.
+
 
 ---
 
 ## Project Repository Contents
 
-* Project Documentation
-* Source Code
-* RFID Configuration Details
-* System Design
-* Project Report
+* Project Documentation.
+* Source Code.
+* RFID Configuration Details.
+* System Design.
+* Project Report.
 
 ---
 
